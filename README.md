@@ -1,2 +1,2 @@
 # pruebita
-probando crear repositorio de modulo2
+sigo probando con este proyecto para clonarlo desde mi git had
